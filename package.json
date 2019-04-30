@@ -40,8 +40,10 @@
     "yarn": "1.x"
   },
   "dependencies": {
+    "@passport-next/passport-google-oauth2": "1.0.0",
     "auto-load": "~3.0.0",
     "axios": "~0.16.2",
+    "balanced-match": "^1.0.0",
     "bcryptjs-then": "~1.0.1",
     "bluebird": "~3.5.0",
     "body-parser": "~1.17.2",
@@ -102,7 +104,6 @@
     "passport-azure-ad-oauth2": "0.0.4",
     "passport-facebook": "~2.1.1",
     "passport-github2": "~0.1.10",
-    "@passport-next/passport-google-oauth2": "1.0.0",
     "passport-ldapauth": "~2.0.0",
     "passport-local": "~1.0.0",
     "passport-openidconnect": "~0.0.2",
