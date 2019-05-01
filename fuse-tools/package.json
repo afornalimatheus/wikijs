@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "fuse-tools@1.0.5",
+      "/home/matheus/wikijs"
+    ]
+  ],
+  "_development": true,
+  "_from": "fuse-tools@1.0.5",
+  "_id": "fuse-tools@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-mMn1EzNIqakTV8v4v1cXH6bNYUo=",
+  "_location": "/fuse-tools",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "fuse-tools@1.0.5",
+    "name": "fuse-tools",
+    "escapedName": "fuse-tools",
+    "rawSpec": "1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "1.0.5"
+  },
+  "_requiredBy": [
+    "/fuse-box"
+  ],
+  "_resolved": "https://registry.npmjs.org/fuse-tools/-/fuse-tools-1.0.5.tgz",
+  "_spec": "1.0.5",
+  "_where": "/home/matheus/wikijs",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/fuse-box/fuse-tools/issues"
+  },
+  "description": "",
+  "devDependencies": {
+    "fuse-box": "^1.4.1-beta.4",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.7.0",
+    "gulp-typescript": "^3.1.6",
+    "run-sequence": "^1.2.2",
+    "typescript": "^2.2.1"
+  },
+  "homepage": "https://github.com/fuse-box/fuse-tools#readme",
+  "license": "ISC",
+  "main": "dist/commonjs/index.js",
+  "name": "fuse-tools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuse-box/fuse-tools.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "dist/typings/index.d.ts",
+  "version": "1.0.5"
+}
